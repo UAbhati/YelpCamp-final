@@ -9,7 +9,7 @@ npm init;
 npm install express ejs body-parser method-override connect-flash express-sanitizer moongose express-session passport passport-local passport-local-mongoose --save; 
   
 The app can be started by using node app.js comment (For locally Setup System). 
-The app can be viewed at "localhost:3000/"(without double quotes) (for locally setup System) OR at https://yelpcamp-ubaid.herokuapp.com/ 
+The app can be viewed at https://yelpcamp-ubaid.herokuapp.com/ 
 
 Technology used:-
 Nodejs, 
